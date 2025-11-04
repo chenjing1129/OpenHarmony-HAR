@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "toolkit_core",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
